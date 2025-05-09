@@ -1,4 +1,4 @@
-# 📊 FutureWorks Solutions - Employability Analytics Application  
+# 📊Employability Analytics Application  
 
 ---
 
